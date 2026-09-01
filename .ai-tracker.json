@@ -1,0 +1,55 @@
+{
+  "sessionStart": "2026-09-01T08:17:43.536Z",
+  "copilotActive": true,
+  "copilotVersion": null,
+  "copilotChatVersion": "0.62.0",
+  "selectedModel": {
+    "id": "gpt-4o-mini",
+    "family": "gpt-4o-mini",
+    "name": "GPT-4o mini",
+    "vendor": "copilot"
+  },
+  "files": {
+    "index.html": {
+      "lang": "html",
+      "aiEdits": 4,
+      "manualEdits": 3,
+      "aiLines": 4,
+      "manualLines": 0,
+      "models": [
+        {
+          "id": "gpt-4o-mini",
+          "name": "GPT-4o mini",
+          "vendor": "copilot"
+        }
+      ],
+      "firstEdit": "2026-09-01T08:20:55.682Z",
+      "lastEdit": "2026-09-01T08:31:44.534Z"
+    }
+  },
+  "staged": {},
+  "inlineAcceptCount": 4,
+  "chatInsertCount": 0,
+  "stagedInlineAcceptCount": 0,
+  "stagedChatInsertCount": 0,
+  "summary": {
+    "totalFiles": 1,
+    "totalAiEdits": 4,
+    "totalManualEdits": 3,
+    "totalAiLines": 4,
+    "totalManualLines": 0,
+    "aiPercentage": 57,
+    "aiLinesPercentage": 100,
+    "languages": [
+      "html"
+    ],
+    "modelsUsed": [
+      {
+        "id": "gpt-4o-mini",
+        "name": "GPT-4o mini",
+        "vendor": "copilot"
+      }
+    ],
+    "lastUpdated": "2026-09-01T08:35:22.597Z"
+  }
+}
