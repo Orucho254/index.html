@@ -13,7 +13,7 @@
     "index.html": {
       "lang": "html",
       "aiEdits": 8,
-      "manualEdits": 8,
+      "manualEdits": 9,
       "aiLines": 8,
       "manualLines": 1,
       "models": [
@@ -24,7 +24,7 @@
         }
       ],
       "firstEdit": "2026-09-01T08:20:55.682Z",
-      "lastEdit": "2026-09-01T08:46:53.859Z"
+      "lastEdit": "2026-09-01T08:47:38.676Z"
     }
   },
   "staged": {},
@@ -35,10 +35,10 @@
   "summary": {
     "totalFiles": 1,
     "totalAiEdits": 8,
-    "totalManualEdits": 8,
+    "totalManualEdits": 9,
     "totalAiLines": 8,
     "totalManualLines": 1,
-    "aiPercentage": 50,
+    "aiPercentage": 47,
     "aiLinesPercentage": 89,
     "languages": [
       "html"
@@ -50,6 +50,6 @@
         "vendor": "copilot"
       }
     ],
-    "lastUpdated": "2026-09-01T08:47:23.781Z"
+    "lastUpdated": "2026-09-01T09:13:35.328Z"
   }
 }
