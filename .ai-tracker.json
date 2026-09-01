@@ -12,10 +12,10 @@
   "files": {
     "index.html": {
       "lang": "html",
-      "aiEdits": 4,
-      "manualEdits": 3,
-      "aiLines": 4,
-      "manualLines": 0,
+      "aiEdits": 8,
+      "manualEdits": 8,
+      "aiLines": 8,
+      "manualLines": 1,
       "models": [
         {
           "id": "gpt-4o-mini",
@@ -24,22 +24,22 @@
         }
       ],
       "firstEdit": "2026-09-01T08:20:55.682Z",
-      "lastEdit": "2026-09-01T08:31:44.534Z"
+      "lastEdit": "2026-09-01T08:46:53.859Z"
     }
   },
   "staged": {},
-  "inlineAcceptCount": 4,
+  "inlineAcceptCount": 8,
   "chatInsertCount": 0,
   "stagedInlineAcceptCount": 0,
   "stagedChatInsertCount": 0,
   "summary": {
     "totalFiles": 1,
-    "totalAiEdits": 4,
-    "totalManualEdits": 3,
-    "totalAiLines": 4,
-    "totalManualLines": 0,
-    "aiPercentage": 57,
-    "aiLinesPercentage": 100,
+    "totalAiEdits": 8,
+    "totalManualEdits": 8,
+    "totalAiLines": 8,
+    "totalManualLines": 1,
+    "aiPercentage": 50,
+    "aiLinesPercentage": 89,
     "languages": [
       "html"
     ],
@@ -50,6 +50,6 @@
         "vendor": "copilot"
       }
     ],
-    "lastUpdated": "2026-09-01T08:37:30.288Z"
+    "lastUpdated": "2026-09-01T08:47:23.781Z"
   }
 }
